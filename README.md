@@ -40,7 +40,7 @@
 
 5. 还有一点我不清楚claude会不会抓但是**openai是一定会抓的**，那就是webrtc这个东西，可以说**百分之90开梯子的人都会因为这个来暴露你的真实ip**,他是干嘛的呢，最开始做这个是为了视频用的比如discord还是zoom会用到这个技术。但是捏实际上这个倒是变成来检测你是否开代理的一个东西了
 
-6. ip的信誉分，这个大家可以用https://iprisk.top/来看一下自己ip的质量，有哪些风险，风险不大就接受把
+6. ip的信誉分，这个大家可以用  https://iprisk.top/   来看一下自己ip的质量，有哪些风险，风险不大就接受把
 
 7. 比较**浏览器中文环境指纹**浏览器环境指纹，这些东西做好了很大程度上你可以防止被封号
 
@@ -62,4 +62,4 @@
 
    ## 最后再说一点
 
-   关于我自己用的vpn大家可来问我，我一般看a的时候会上tghttps://t.me/mercuryinternet或者直接加群https://t.me/+jOhtpbjAHJ80MTE1来问一下我用的啥vpn，也可以帮忙购买。协议是VLESS + Reality(不是广告，真再用)
+   关于我自己用的vpn大家可来问我，我一般看a的时候会上tghttps://t.me/mercuryinternet  或者直接加群  https://t.me/+jOhtpbjAHJ80MTE1  来问一下我用的啥vpn，也可以帮忙购买。协议是VLESS + Reality(不是广告，真再用)
