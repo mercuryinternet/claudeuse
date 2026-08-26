@@ -62,4 +62,4 @@
 
    ## 最后再说一点
 
-   关于我自己用的vpn大家可来问我，我一般看a的时候会上tghttps://t.me/mercuryinternet  或者直接加群  https://t.me/+jOhtpbjAHJ80MTE1  来问一下我用的啥vpn，也可以帮忙购买。协议是VLESS + Reality(不是广告，真再用)
+   关于我自己用的vpn大家可来问我，我一般看a的时候会上tg  https://t.me/mercuryinternet  或者直接加群  https://t.me/+jOhtpbjAHJ80MTE1  来问一下我用的啥vpn，也可以帮忙购买。协议是VLESS + Reality(不是广告，真再用)
